@@ -1,0 +1,32 @@
+{
+  "name": "laravel-mix-artisan-serve",
+  "version": "1.0.0",
+  "description": "Laravel Mix plugin to run `php artisan serve` by chaining `.serve()`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/GeoffSelby/laravel-mix-artisan-serve",
+  "author": "Geoff Selby <geoff@geoffcodesthings.com>",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "artisan",
+    "mix serve"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeoffSelby/laravel-mix-artisan-serve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GeoffSelby/laravel-mix-artisan-serve/issues"
+  },
+  "peerDependencies": {
+    "laravel-mix": "^2.1.7||^3.0||^4.0||^5.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
