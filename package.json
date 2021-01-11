@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-artisan-serve",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Laravel Mix plugin to run `php artisan serve` by chaining `.serve()`",
   "main": "index.js",
   "scripts": {
